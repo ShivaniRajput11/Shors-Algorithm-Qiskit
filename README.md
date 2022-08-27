@@ -26,3 +26,10 @@ If the period is odd then go back to step 1
 Otherwise we have found the factors of N
 
 ```
+
+
+### Implementation 
+
+The algorithm can be implemented incredibly easily since Qiskit has a baked in function for the algorithm called Shor(N). 
+
+Where N will be the integer you wish to factor. For example Shor(21) will find the prime factors for 21. 
