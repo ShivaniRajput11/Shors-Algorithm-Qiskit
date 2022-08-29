@@ -1,5 +1,7 @@
 # Shors-Algorithm-Qiskit
 
+Let's understand
+
 ### What is the Shor’s Algorithm
 
 Shor’s Algorithm is a quantum algorithm for integer factorisation. Simply put given an odd integer N it will find it’s prime factors. 
